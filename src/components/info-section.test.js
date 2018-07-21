@@ -7,4 +7,4 @@ describe('<InfoSection />', () => {
   it('Renders without crashing', () => {
     shallow(<InfoSection />);
   });
-});
+}); 

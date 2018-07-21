@@ -7,4 +7,4 @@ describe('<StatusSection />', () => {
   it('Renders without crashing', () => {
     shallow(<StatusSection auralStatus="" guesses={[]} />);
   });
-});
+}); 
